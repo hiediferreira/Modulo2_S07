@@ -1,5 +1,5 @@
 ### Rodar o repositório:
-`git clone`
+`git clone https://github.com/hiediferreira/Modulo2_S07.git`
 
 ### Instalar as dependências:
 `npm install`
